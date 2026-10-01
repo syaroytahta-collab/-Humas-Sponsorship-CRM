@@ -1,1 +1,1 @@
-# -Humas-Sponsorship-CRM
+# HumasSponsorship-CRM
